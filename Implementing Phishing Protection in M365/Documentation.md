@@ -34,5 +34,16 @@ This solution provides the following benefits:
 * Improved email security and filtering capabilities.
 * Enhanced user authentication and access controls.
 
+## Summary of Actions Taken
+
+Feature                              |           Configuration
+:-----------------------------------:|:--------------------------------------------------------------:
+Defender Anti-Phishing               |Protects against impersonation & phishing attacks
+Safe Links                           |Scans & blocks malicious URLs
+Safe Attachments                     |Scans email attachments before delivery
+External Email Warning               |Alerts users about external emails
+Attack Simulation Training           |Phishing simulation for employees
+Multi-Factor Authentication (MFA)    |Protects user accounts from phishing
+
 ## Conclusion
 By implementing this solution, the company can significantly reduce the risk of phishing attacks and improve overall email security in M365.
