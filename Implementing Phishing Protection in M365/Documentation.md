@@ -18,6 +18,7 @@ This solution utilizes Microsoft 365 (M365) security features to protect against
 
 ### Step 2: Set up Exchange Online Protection (EOP)
 * Configure anti-phishing policies and settings.
+* Set up external email warning
 * Set up email filtering and quarantine policies.
 * **Image:** Screenshot of Exchange Online Protection (EOP) anti-phishing settings page.
 
