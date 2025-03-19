@@ -11,20 +11,20 @@ This solution utilizes Microsoft 365 (M365) security features to protect against
 3. **Entra ID (formerly Azure Active Directory)**: Implementing multi-factor authentication (MFA) and conditional access policies to reduce the risk of compromised accounts.
 
 ## Implementation Steps
-### Step 1: Configure Microsoft Defender for Office 365
-* Set up anti-phishing rules and settings.
-* Configure user and domain impersonation protection.
+### Step 1: Configuring Microsoft Defender for Office 365
+* Setting up anti-phishing rules and settings.
+* Configuring user and domain impersonation protection.
 * **Image:** Screenshot of Microsoft Defender for Office 365 anti-phishing settings page.
 
-### Step 2: Set up Exchange Online Protection (EOP)
-* Configure anti-phishing policies and settings.
-* Set up external email warning
-* Set up email filtering and quarantine policies.
+### Step 2: Setting up Exchange Online Protection (EOP)
+* Configuring anti-phishing policies and settings.
+* Setting up external email warning
+* Setting up email filtering and quarantine policies.
 * **Image:** Screenshot of Exchange Online Protection (EOP) anti-phishing settings page.
 
-### Step 3: Implement Entra ID (formerly Azure Active Directory) security features
-* Enable multi-factor authentication (MFA) for all users.
-* Configure conditional access policies to restrict access to sensitive resources.
+### Step 3: Implementing Entra ID (formerly Azure Active Directory) security features
+* Enabling multi-factor authentication (MFA) for all users.
+* Configuring conditional access policies to restrict access to sensitive resources.
 * **Image:** Screenshot of Entra ID (formerly Azure Active Directory) MFA settings page.
 
 ## Benefits
