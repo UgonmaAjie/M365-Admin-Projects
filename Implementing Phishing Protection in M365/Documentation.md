@@ -13,7 +13,8 @@ This solution utilizes Microsoft 365 (M365) security features to protect against
 ## Implementation Steps
 ### Step 1: Configuring Microsoft Defender for Office 365
 * Setting up anti-phishing rules and settings.
-* Configuring user and domain impersonation protection.
+* Created a safe link policy to protect users from malicious URLs
+* Configured a safe attachment policy to protect users from malicious email attachments
 * **Image:** Screenshot of Microsoft Defender for Office 365 anti-phishing settings page.
 
 ### Step 2: Setting up Exchange Online Protection (EOP)
