@@ -34,6 +34,23 @@ This solution provides the following benefits:
 * Improved email security and filtering capabilities.
 * Enhanced user authentication and access controls.
 
+## Challenges Faced
+During the implementation of Microsoft 365 security and compliance solutions, I encountered two significant challenges that tested my problem-solving skills:
+
+1. I lacked the necessary administrative permissions to configure DKIM, DMARC, and SPF for email authentication.
+2. Inability to access Threat Explorer due to licensing restrictions.
+
+This limitation prevented me from fully securing the Microsoft 365 environment and mitigating potential security threats.
+
+## Recommendations
+To overcome these challenges, I recommend the following:
+
+- Obtain the necessary administrative permissions to configure and implement security features.
+- Ensure that all configuration settings are accessible and properly configured.
+- Prioritize the implementation of email authentication to prevent spoofing and Threat Explorer to enhance the organization's security posture.
+
+By addressing these challenges, the organization can significantly improve its security posture and reduce the risk of security threats.
+
 ## Summary of Actions Taken
 
 Feature                              |           Configuration
@@ -44,6 +61,8 @@ Safe Attachments                     |Scans email attachments before delivery
 External Email Warning               |Alerts users about external emails
 Attack Simulation Training           |Phishing simulation for employees
 Multi-Factor Authentication (MFA)    |Protects user accounts from phishing
+
+
 
 ## Conclusion
 By implementing this solution, the company can significantly reduce the risk of phishing attacks and improve overall email security in M365.
