@@ -11,24 +11,53 @@ This solution utilizes Microsoft 365 (M365) security features to protect against
 3. **Entra ID (formerly Azure Active Directory)**: Implementing multi-factor authentication (MFA) and conditional access policies to reduce the risk of compromised accounts.
 
 ## Implementation Steps
-### Step 1: Configuring Microsoft Defender for Office 365
+## Step 1: Configuring Microsoft Defender for Office 365
 * **_Setting up anti-phishing rules and settings_**
-![](antipolicy1.png)
-* Created a safe link policy to protect users from malicious URLs
-* Configured a safe attachment policy to protect users from malicious email attachments
-* Enabled Microsoft Defender Attack Simulation Training
-* **Image:** Screenshot of Microsoft Defender for Office 365 anti-phishing settings page.
+![image alt](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/antipolicy1.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/antipolicy2.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/antipolicy3.png)
 
-### Step 2: Setting up Exchange Online Protection (EOP)
-* Configuring anti-phishing policies and settings.
-* Setting up external email warning
-* Setting up email filtering and quarantine policies.
-* **Image:** Screenshot of Exchange Online Protection (EOP) anti-phishing settings page.
 
-### Step 3: Implementing Entra ID (formerly Azure Active Directory) security features
-* Enabling multi-factor authentication (MFA) for all users.
-* Configuring conditional access policies to restrict access to sensitive resources.
-* **Image:** Screenshot of Entra ID (formerly Azure Active Directory) MFA settings page.
+* **_Created a safe link policy to protect users from malicious URLs_**
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/safelink1.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/safelink2.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/safelink3.png)
+
+
+* **_Configured a safe attachment policy to protect users from malicious email attachments_**
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/safeattach1.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/safeattach2.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/safeattach3.png)
+
+
+* **_Implementing of Zero-hour Auto Purge (ZAP) for Anti-Spam by moving delivered messages in mailboxes to the Junk Email folder or quarantine if found to be spam, phishing, or contain malware_**
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/antispam1.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/antispam2.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/antispam3.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/antispam4.png)
+
+
+* **_Enabled Microsoft Defender Attack Simulation Training_**
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/attacksim1.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/attacksim2.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/attacksim3.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/attacksim4.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/attacksim5.png)
+
+
+## Step 2: Setting up Exchange Online Protection (EOP)
+* **_Setting up external email warning to help users identify emails from outside the organization_**
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/emailwarn1.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/emailwarn2.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/emailwarn3.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/emailwarn4.png)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/emailwarn5.png)
+
+
+## Step 3: Implementing Entra ID security features
+* **_Enabling multi-factor authentication (MFA) for all users_**
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/9d917f95fc0149aa490193a574d71cc0192bdb0a/Implementing%20Phishing%20Protection%20in%20M365/email_security/mfa.png)
+
 
 ## Benefits
 This solution provides the following benefits:
