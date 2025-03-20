@@ -35,6 +35,15 @@ This solution provides the following benefits:
 * Improved email security and filtering capabilities.
 * Enhanced user authentication and access controls.
 
+
+# Skills
+- Microsoft 365 security and compliance
+- Microsoft Defender for Office 365
+- Exchange Online Protection (EOP)
+- Entra ID (formerly Azure Active Directory)
+- Conditional access and device compliance
+
+  
 ## Challenges Faced
 During the implementation of Microsoft 365 security and compliance solutions, I encountered two significant challenges that tested my problem-solving skills:
 
