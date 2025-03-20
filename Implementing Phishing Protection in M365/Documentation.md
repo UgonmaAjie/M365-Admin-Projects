@@ -37,11 +37,11 @@ This solution provides the following benefits:
 
 
 # Skills
-- Microsoft 365 security and compliance
+- Microsoft 365 Security and Compliance
 - Microsoft Defender for Office 365
 - Exchange Online Protection (EOP)
-- Entra ID (formerly Azure Active Directory)
-- Conditional access and device compliance
+- Entra ID 
+- Conditional Access 
 
   
 ## Challenges Faced
