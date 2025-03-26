@@ -10,7 +10,6 @@ A law firm wants to ensure that emails containing sensitive legal documents are 
 
 ## Solution
 1. Created a Mail Flow rule to detect and encrypt sensitive emails
-2. Configured a Data Loss Prevention (DLP) policy to identify sensitive legal documents
 
 ## Implementation Steps
 ### Step 1: Create a Mail Flow Rule
@@ -18,12 +17,7 @@ A law firm wants to ensure that emails containing sensitive legal documents are 
 * Navigated to Mail flow > Rules
 * Created a new rule to detect and encrypt sensitive emails
 
-### Step 2: Configure a DLP Policy
-* Went to the Microsoft 365 admin center
-* Navigated to Security & Compliance > Data loss prevention
-* Created a new DLP policy to identify sensitive legal documents
-
-### Step 3
+### Step 2
 Successfully tested the solution to ensure emails containing sensitive legal message are encrypted when sent externally
 * Sent an encrypted email to a recipient and verified that they could access the email and its contents and was prompted to authenticate before accessing the email contents
 * Confirmed that the recipient was able to access the email contents after authenticating
