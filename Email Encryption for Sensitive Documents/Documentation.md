@@ -30,5 +30,4 @@ Successfully tested the solution to ensure emails containing sensitive legal mes
 
 ## Challlenges Faced
 During the implementation of email encryption using Microsoft 365, the notable challenge I faced was:
-Inability to carry out Office 365 Message Encryption (OME) on Microsoft Purview: Despite configuring the necessary settings, 
-I was unable to successfully implement OME on Microsoft Purview. The reason due to insufficient permissions.
+Inability to carry out Office 365 Message Encryption (OME) on Microsoft Purview, the reason due to insufficient permissions.
