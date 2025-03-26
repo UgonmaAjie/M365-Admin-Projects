@@ -24,8 +24,8 @@ A law firm wants to ensure that emails containing sensitive legal documents are 
 ![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/main/Email%20Encryption%20for%20Sensitive%20Documents/email_encryption/rule5.jpg)
 ---
 ### Step 2
-* Successfully tested the solution to ensure emails containing sensitive legal message are encrypted when sent externally
-### Sent an encrypted email to a recipient and verified that they could access the email and its contents and was prompted to authenticate before accessing the email contents
+#### Successfully tested the solution to ensure emails containing sensitive legal message are encrypted when sent externally
+* Sent an encrypted email to a recipient and verified that they could access the email and its contents and was prompted to authenticate before accessing the email contents
 ![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/main/Email%20Encryption%20for%20Sensitive%20Documents/email_encryption/test1.jpg)
 ---
 ![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/main/Email%20Encryption%20for%20Sensitive%20Documents/email_encryption/test2.jpg)
