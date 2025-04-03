@@ -13,9 +13,13 @@ This solution uses Microsoft 365 to create a
 
 ### Implementation
 1. Open Powershell
-2. install exchange online
-3. Import exchange online module
-4. connect-to-exchange-online
-5. Enabling Mailbox Archiving Using PowerShell
-
-📌 Goal: Automatically enable archive mailboxes for all users.
+2. Install Exchange Online
+3. Import Exchange Online Module
+4. Connect to Exchange Online
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/2228b84fc920dbcbc39e13ad4e31646a51b7d79e/Email%20Retention%20%26%20Archiving/Email%20Retention%20%26%20Archiving/archive1.jpeg)
+---
+5. Enabling Mailbox Archiving Using PowerShell (To automatically enable archive mailboxes for all users)
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/2228b84fc920dbcbc39e13ad4e31646a51b7d79e/Email%20Retention%20%26%20Archiving/Email%20Retention%20%26%20Archiving/archive2.jpeg)
+---
+6. To check if archiving is enabled
+![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/2228b84fc920dbcbc39e13ad4e31646a51b7d79e/Email%20Retention%20%26%20Archiving/Email%20Retention%20%26%20Archiving/archive3.jpeg)
