@@ -12,7 +12,7 @@ This solution uses Microsoft 365 to create a
 5. Litigation Hold
 
 ## Implementation
-### *_Configuring Archiving_*
+### *_Configuring Archiving for all users on Powershell_*
 1. Open Powershell
 2. Install Exchange Online
 3. Import Exchange Online Module
