@@ -5,11 +5,11 @@ This project focuses on configuring Microsoft 365 Retention Policies and Archivi
 
 ### Solution Overview
 This solution uses Microsoft 365 to create a 
-1. Retention Tag,
-2. Retention Policy
-3. Configure Archiving
-4. Enable Auto-Expanding Archive
-5. Litigation Hold
+* Retention Tag,
+* Retention Policy
+* Configure Archiving
+* Enable Auto-Expanding Archive
+* Litigation Hold
 
 ## Implementation
 ### *_Configuring Archiving for all users on Powershell_*
@@ -25,14 +25,18 @@ This solution uses Microsoft 365 to create a
 6. To check if archiving is enabled
 ![](https://github.com/UgonmaAjie/M365-Admin-Projects/blob/2228b84fc920dbcbc39e13ad4e31646a51b7d79e/Email%20Retention%20%26%20Archiving/Email%20Retention%20%26%20Archiving/archive3.jpeg)
 
-### Enable Auto-Expanding Archive (If users' mailboxes exceed 100GB, enable auto-expanding archives)
+7. Enabling Auto-Expanding Archive
 
-### Creating Retention Tags (to Move Emails to Archive After 7 Years)
+### *_Creating Retention Tags and Policies_*
+8. Creating Retention Tags (to Move Emails to Archive After 7 Years)
 
-## Creating and Applying a Retention Policy (Creating a Retention Policy that includes the newly created tag)
+9. Creating and Applying a Retention Policy (Creating a Retention Policy that includes the newly created tag)
 
-Assign the retention policy to **all mailboxes**:
+10. Assigning the retention policy to all mailboxes
 
-## **Step 6: Enable Litigation Hold (Optional for Compliance)**
-If your organization requires **Litigation Hold** to prevent email deletion:
+11. Verifying the Retention Policy (Check if the retention policy is applied)
+
+### *_Verifying Litigation Hold done o prevent email deletion_*
+
+
 
