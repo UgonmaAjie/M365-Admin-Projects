@@ -11,7 +11,8 @@ This solution uses Microsoft 365 to create a
 4. Enable Auto-Expanding Archive
 5. Litigation Hold
 
-### Implementation
+## Implementation
+### *_Configuring Archiving_*
 1. Open Powershell
 2. Install Exchange Online
 3. Import Exchange Online Module
