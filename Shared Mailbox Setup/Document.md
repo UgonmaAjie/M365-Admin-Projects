@@ -48,7 +48,8 @@ The **Customer Service Team** requires a shared mailbox to:
    - **Name**: Support
    - **Email**: `support@yourdomain.com`
 5. Click **Create**
-*_Note: The steps outlined are demonstrated in the video_*
+
+### *_Note: The steps outlined are demonstrated in the video_*
 ---
 
 ### 🔹 Step 2: Assign Members and Permissions
@@ -67,7 +68,7 @@ After creating the shared mailbox:
 - Under **Mailbox delegation** → **Send on behalf**
 - Add the same users
 
-> *_Note: The steps outlined are demonstrated in the video_* (⏳ Note: (Permission propagation may take up to 60 minutes)
+### *_Note: The steps outlined are demonstrated in the video_* (⏳ Note: (Permission propagation may take up to 60 minutes)
 ---
 
 ## 🧪 Testing & Validation
