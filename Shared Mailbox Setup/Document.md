@@ -67,8 +67,7 @@ After creating the shared mailbox:
 - Under **Mailbox delegation** → **Send on behalf**
 - Add the same users
 
-> ⏳ Note: (Permission propagation may take up to 60 minutes)
-*_Note: The steps outlined are demonstrated in the video_*
+> *_Note: The steps outlined are demonstrated in the video_* (⏳ Note: (Permission propagation may take up to 60 minutes)
 ---
 
 ## 🧪 Testing & Validation
