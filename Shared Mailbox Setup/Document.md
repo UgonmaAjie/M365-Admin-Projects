@@ -5,7 +5,7 @@ designed to efficiently handle incoming support inquiries and allow multiple tea
 
 ---
 
-## 📌 Scenario Overview
+##  Scenario Overview
 
 The **Customer Service Team** requires a shared mailbox to:
 
@@ -16,7 +16,7 @@ The **Customer Service Team** requires a shared mailbox to:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - ✅ Create a Shared Mailbox in Microsoft 365 Admin Center
 - ✅ Assign members with **Full Access**, **Send As**, and **Send on Behalf** permissions
@@ -26,7 +26,7 @@ The **Customer Service Team** requires a shared mailbox to:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -37,9 +37,9 @@ The **Customer Service Team** requires a shared mailbox to:
 
 ---
 
-## 🏗️ Setup Process 
+##  Setup Process 
 
-### 🔹 Step 1: Created a Shared Mailbox
+### Step 1: Created a Shared Mailbox
 
 1. Logged in to [Microsoft 365 Admin Center](https://admin.microsoft.com)
 2. Navigate to **Recipients** → **Mailboxes**
@@ -50,9 +50,10 @@ The **Customer Service Team** requires a shared mailbox to:
 5. Click **Create**
 
 ### *_Note: The steps outlined are demonstrated in the video_*
+
 ---
 
-### 🔹 Step 2: Assign Members and Permissions
+### Step 2: Assign Members and Permissions
 
 After creating the shared mailbox:
 
@@ -111,7 +112,7 @@ Recipient sees: `From: user@yourdomain.com on behalf of support@yourdomain.com`
 
 ---
 
-## 📚 Summary of Permissions
+##  Summary of Permissions
 
 | Permission | What it Allows | Where to Set |
 |------------|----------------|--------------|
