@@ -80,7 +80,7 @@ After creating the shared mailbox:
 - Clicked user icon → **Open another mailbox**
 - Type: `support@valscloud.co.uk`
 
-### *_Note: The video includes a demonstraton on how to open and test a shared mailbox_*
+### *_Note: The video includes a demonstraton on how to open and test Full Access of shared mailbox_*
 [![Demo on opening a shared Mailbox](https://cdn.pixabay.com/photo/2019/02/13/10/00/contact-3994018_960_720.jpg)](https://youtu.be/_hiVYzky8hU)
 ---
 
@@ -92,7 +92,7 @@ After creating the shared mailbox:
 **Expected Result:**  
 Recipient sees: `From: support@valscloud.co.uk`
 
-### *_Note: The video includes a demonstraton on how to send a mail using Send AS permission_*
+### *_Note: The video includes a demonstraton on how to send a mail using Send As permission_*
 [![Demo on Send As](https://cdn.pixabay.com/photo/2018/11/28/04/17/mail-3842930_1280.jpg)](https://youtu.be/Zx-VvbDpoP8)
 ---
 
@@ -105,7 +105,7 @@ Recipient sees: `From: support@valscloud.co.uk`
 **Expected Result:**  
 Recipient sees: `From: user on behalf of support@valscloud.co.uk`
 
-### *_Note: The video includes a demonstraton on how to open and test a shared mailbox_*
+### *_Note: The video includes a demonstraton on how to send a mail using Send-On-Behalf Permission_*
 [![Demo on send on behalf](https://cdn.pixabay.com/photo/2020/05/30/10/09/mail-5238394_960_720.jpg)](https://youtu.be/Azkl-jFLGr4)
 ---
 
@@ -117,7 +117,7 @@ Recipient sees: `From: user on behalf of support@valscloud.co.uk`
 - Under **Email activity**, view send/receive logs
 - Export reports as needed
 
-### *_Note: The video includes a demonstraton on how to open and test a shared mailbox_*
+### *_Note: The video includes a demonstraton on Reporting & Monitoring Email Activity _*
 [![Demo on reporting email usage](https://cdn.pixabay.com/photo/2017/10/17/14/10/financial-2860753_960_720.jpg)](https://youtu.be/20fCMIeHpj4)
 ---
 
