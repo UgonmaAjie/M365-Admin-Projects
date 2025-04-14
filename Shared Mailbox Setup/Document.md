@@ -45,12 +45,12 @@ The **Customer Service Team** requires a shared mailbox to:
 2. Navigate to **Recipients** → **Mailboxes**
 3. Click **Add a shared mailbox**
 4. Enter:
-   - **Name**: Support
-   - **Email**: `support@yourdomain.com`
+- **Name**: Support
+- **Email**: `support@yourdomain.com`
 5. Click **Create**
 
 ### *_Note: The steps outlined are demonstrated in the video_*
-[![Alt text](Image Link)](Video Link)
+[![Creation of Shared Mailbox](https://cdn.pixabay.com/photo/2018/08/10/15/39/email-3597088_1280.jpg)](https://youtu.be/IAVqTLHW-fo)
 ---
 
 ### Step 2: Assign Members and Permissions
@@ -59,7 +59,7 @@ After creating the shared mailbox:
 
 #### ✔️ Full Access (Read, and delete emails)
 - Click the mailbox → **Edit members**
-- Add the customer service agents (e.g., Jane, John)
+- Add the customer service agents
 
 #### ✔️ Send As (Send email as `support@`)
 - Scroll to **Mailbox delegation** → **Send As**
@@ -67,38 +67,40 @@ After creating the shared mailbox:
 
 #### ✔️ Send on Behalf (Shows "User on behalf of support@")
 - Under **Mailbox delegation** → **Send on behalf**
-- Add the same users
+- Add the users
 
-### *_Note: The steps outlined are demonstrated in the video_* (⏳ Note: (Permission propagation may take up to 60 minutes)
----
+### *_Note: The steps outlined are demonstrated in the video_* 
+[![Dlelegation of Shared Mailbox](https://cdn.pixabay.com/photo/2017/11/17/09/37/finger-2956974_1280.jpg)](https://youtu.be/bF3IkKXMFG8)
 
 ## 🧪 Testing & Validation
 
-### ✅ Test 1: Open Shared Mailbox in Outlook
+### Test 1: Open Shared Mailbox in Outlook
 
 - Logged-in as a user with access
 - Clicked user icon → **Open another mailbox**
 - Type: `support@valscloud.co.uk`
 
+### *_Note: The video includes a demonstraton on how to open and test a shared mailbox_*
+[![Demo on opening a shared Mailbox](https://cdn.pixabay.com/photo/2019/02/13/10/00/contact-3994018_960_720.jpg)](https://youtu.be/_hiVYzky8hU)
 ---
 
-### ✅ Test 2: Send As the Shared Mailbox
+### Test 2: Send As the Shared Mailbox
 
 - Composed a new message
-- Clicked **From** → Choose `support@yourdomain.com`
+- Clicked **From** → Choose `support@valcloud.co.uk`
 - Sent to a test recipient
 **Expected Result:**  
 Recipient sees: `From: support@valscloud.co.uk`
 ---
 
-### ✅ Test 3: Send on Behalf
+### Test 3: Send on Behalf
 
 - Composed new email
-- Chose `support@yourdomain.com` as **From**
+- Chose `support@valscloud.co.uk` as **From**
 - Send message
 
 **Expected Result:**  
-Recipient sees: `From: user@yourdomain.com on behalf of support@yourdomain.com`
+Recipient sees: `From: user on behalf of support@valscloud.co.uk`
 
 ---
 
