@@ -1,4 +1,4 @@
-# 📬 Microsoft 365 Shared Mailbox Setup for Customer Service Team
+# Microsoft 365 Shared Mailbox Setup for Customer Service Team
 
 This repository documents the **step-by-step setup, configuration, and testing** of a Microsoft 365 Shared Mailbox for a **Customer Service Team**, 
 designed to efficiently handle incoming support inquiries and allow multiple team members to collaborate on email communication.
@@ -39,7 +39,7 @@ The **Customer Service Team** requires a shared mailbox to:
 
 ##  Setup Process 
 
-### Step 1: Created a Shared Mailbox
+## Step 1: Created a Shared Mailbox
 
 1. Logged in to [Microsoft 365 Admin Center](https://admin.microsoft.com)
 2. Navigate to **Recipients** → **Mailboxes**
@@ -53,7 +53,7 @@ The **Customer Service Team** requires a shared mailbox to:
 [![Creation of Shared Mailbox](https://cdn.pixabay.com/photo/2018/08/10/15/39/email-3597088_1280.jpg)](https://youtu.be/IAVqTLHW-fo)
 ---
 
-### Step 2: Assign Members and Permissions
+## Step 2: Assign Members and Permissions
 
 After creating the shared mailbox:
 
