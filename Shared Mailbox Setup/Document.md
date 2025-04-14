@@ -46,7 +46,7 @@ The **Customer Service Team** requires a shared mailbox to:
 3. Click **Add a shared mailbox**
 4. Enter:
 - **Name**: Support
-- **Email**: `support@yourdomain.com`
+- **Email**: `support@valscloud.co.uk`
 5. Click **Create**
 
 ### *_Note: The steps outlined are demonstrated in the video_*
@@ -74,7 +74,7 @@ After creating the shared mailbox:
 
 ## 🧪 Testing & Validation
 
-### Test 1: Open Shared Mailbox in Outlook
+### Test 1: Full Access Permission
 
 - Logged-in as a user with access
 - Clicked user icon → **Open another mailbox**
@@ -84,13 +84,16 @@ After creating the shared mailbox:
 [![Demo on opening a shared Mailbox](https://cdn.pixabay.com/photo/2019/02/13/10/00/contact-3994018_960_720.jpg)](https://youtu.be/_hiVYzky8hU)
 ---
 
-### Test 2: Send As the Shared Mailbox
+### Test 2: Send As 
 
 - Composed a new message
 - Clicked **From** → Choose `support@valcloud.co.uk`
 - Sent to a test recipient
 **Expected Result:**  
 Recipient sees: `From: support@valscloud.co.uk`
+
+### *_Note: The video includes a demonstraton on how to send a mail using Send AS permission_*
+[![Demo on Send As](https://cdn.pixabay.com/photo/2018/11/28/04/17/mail-3842930_1280.jpg)](https://youtu.be/Zx-VvbDpoP8)
 ---
 
 ### Test 3: Send on Behalf
@@ -102,6 +105,8 @@ Recipient sees: `From: support@valscloud.co.uk`
 **Expected Result:**  
 Recipient sees: `From: user on behalf of support@valscloud.co.uk`
 
+### *_Note: The video includes a demonstraton on how to open and test a shared mailbox_*
+[![Demo on send on behalf](https://cdn.pixabay.com/photo/2020/05/30/10/09/mail-5238394_960_720.jpg)](https://youtu.be/Azkl-jFLGr4)
 ---
 
 
@@ -112,6 +117,8 @@ Recipient sees: `From: user on behalf of support@valscloud.co.uk`
 - Under **Email activity**, view send/receive logs
 - Export reports as needed
 
+### *_Note: The video includes a demonstraton on how to open and test a shared mailbox_*
+[![Demo on reporting email usage](https://cdn.pixabay.com/photo/2017/10/17/14/10/financial-2860753_960_720.jpg)](https://youtu.be/20fCMIeHpj4)
 ---
 
 ##  Summary of Permissions
