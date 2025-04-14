@@ -50,7 +50,7 @@ The **Customer Service Team** requires a shared mailbox to:
 5. Click **Create**
 
 ### *_Note: The steps outlined are demonstrated in the video_*
-https://github.com/user-attachments/assets/d991c645-6f18-497c-862f-d4e918d2a8f8
+[![Alt text](Image Link)](Video Link)
 ---
 
 ### Step 2: Assign Members and Permissions
