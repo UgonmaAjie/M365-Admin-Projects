@@ -26,16 +26,14 @@
 
 1. Clicked ** Create policy**.
 2. Chose **Custom policy**
-   - Optionally, select **Financial > U.S. Financial Data** template (includes credit card numbers).
 3. Click **Next**.
 
 ---
 
 ### Step 4: Name the Policy
 
-- Name: `Block Email with Credit Card Numbers`
-- Description: `Prevents users from sending emails containing credit card numbers.`
-
+- Name: `Block Emails with Credit Card Info`
+- Description: `To block emails containing sesitive information like credit cards`
 Click **Next**.
 
 ---
@@ -52,9 +50,8 @@ Click **Next**.
 1. **Conditions**:
    - Content contains: **Credit Card Number** (predefined sensitive info type)
    - Detection threshold: **at least 1 occurrence**
-
 2. **Actions**:
-   - **Block email**
+   - **Block everywhere**
    - Click **Next**.
 
 ---
