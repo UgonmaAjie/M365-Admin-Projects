@@ -1,7 +1,7 @@
 # SharePoint Site Creation and User Permissiom
 
 ## Project Overview
-This project involves creating a SharePoint site and confor employees to access news, policies, and documents. Figuring security groups, adding members, and assigning site permissions.
+This project involves creating a SharePoint site and for employees to access news, policies, and documents. Coniguring security groups, adding members, and assigning site permissions.
 
 
 ## Objectives
