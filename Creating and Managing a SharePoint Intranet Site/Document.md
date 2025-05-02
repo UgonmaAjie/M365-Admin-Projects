@@ -39,6 +39,7 @@ This project involves creating a SharePoint site and for employees to access new
 
 
 ## Security Group Details
+Configured user permissions for the different security groyups
 | Group Name | Members | Permissions |
 | --- | --- | --- |
 | IT | [list of IT members] | Full Control |
